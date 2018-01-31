@@ -1,0 +1,35 @@
+body {
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: 'Oswald', sans-serif;
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+}
+
+.date {
+	text-transform: uppercase;
+	letter-spacing: 0.4rem;
+	color: #3498db;
+}
+
+h2 {
+	font-family: 'Anton', sans-serif;
+	color: #2c3e50;
+	font-size: 1.7rem;
+}
+
+div p:nth-of-type(2) {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.post {
+	margin-bottom: 20px;
+}

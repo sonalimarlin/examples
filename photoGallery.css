@@ -1,0 +1,13 @@
+.glyph-icon {
+width:60x;
+height:60px;
+padding-bottom: 15px;
+}
+
+body {
+	padding-top: 90px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+}
